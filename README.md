@@ -17,7 +17,7 @@ In this project we use github api to view repositories and profiles. We learned 
 
 <h2> :rocket: Technologies</h2>
 
-  -React JS
+  -[React JS](https://reactjs.org/)
   
   ---
 
