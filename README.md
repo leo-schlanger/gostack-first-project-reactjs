@@ -18,6 +18,8 @@ In this project we use github api to view repositories and profiles. We learned 
 <h2> :rocket: Technologies</h2>
 
   -React JS
+  
+  ---
 
 <h2> :scroll: How to execute</h2>
 
