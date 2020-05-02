@@ -1,9 +1,11 @@
 <h1 align="center">
-  
+
   <img src="./src/assets/logo.svg"/>
-  
+
 </h1>
-  
+
+<img src="./public/git-explorer.gif" />
+
   ---
 
 <h2>:page_facing_up: Description</h2>
@@ -18,7 +20,7 @@ In this project we use github api to view repositories and profiles. We learned 
 <h2> :rocket: Technologies</h2>
 
   -[React JS](https://reactjs.org/)
-  
+
   ---
 
 <h2> :scroll: How to execute</h2>
@@ -28,7 +30,7 @@ After downloading the project, open the terminal in the project folder and execu
 ``` bash
   # Install packages
   $ yarn install
-  
+
   # Execute project
   $ yarn start
 ```
